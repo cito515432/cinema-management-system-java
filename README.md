@@ -36,7 +36,7 @@ Database credentials were removed from the original academic source before prepa
 ```bash
 DB_URL=jdbc:mysql://localhost:3306/cinecolombia
 DB_USER=YOUR_DB_USER
-DB_PASSWORD=your_password
+DB_PASSWORD=YOUR_DB_PASSWORD
 ```
 
 The original submission does not include a standalone SQL schema file. The database model is documented in `docs/database_normalization.pdf` and the project report.
