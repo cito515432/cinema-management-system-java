@@ -35,7 +35,7 @@ Database credentials were removed from the original academic source before prepa
 
 ```bash
 DB_URL=jdbc:mysql://localhost:3306/cinecolombia
-DB_USER=root
+DB_USER=YOUR_DB_USER
 DB_PASSWORD=your_password
 ```
 
